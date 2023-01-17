@@ -1,4 +1,6 @@
-#European Option Pricing (Assuming no dividend payment)
+#Created by Michelle Habib
+#EUROPEAN OPTION PRICING (ASSUMING NO DIVIDEND PAYMENT)
+
 #s0 - Spot price (Underlying asset price)
 #k - Strike price
 #v - Annual volatility
